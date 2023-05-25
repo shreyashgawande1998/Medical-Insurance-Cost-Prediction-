@@ -6,11 +6,11 @@ Data Manipulation:Packages used for handling and importing dataset such as panda
 # Source Data
 I got these data from kaggle.
 # Work Flow
-Collect the data
-Data analysis
-Data pre-processing
-Train-Test-Split
-Model training
-Model evaluation
+:-Collect the data
+:-Data analysis
+:-Data pre-processing
+:-Train-Test-Split
+:-Model training
+:-Model evaluation
 # Results
 So i got 75% on training and 74% on test data by using R Squared metric,so i have successfully build the predictive system which will predict the medical insurance cost of the person.
